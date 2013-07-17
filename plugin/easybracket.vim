@@ -1,7 +1,9 @@
 " easybracket.vim: 自動括弧補完プラグイン。
+" 
+" The MIT License (MIT)
+"
 " Copyright (c) 2013 Ishibashi Hironori
 "
-" MIT License.
 "
 " Permission is hereby granted, free of charge, to any person obtaining a copy
 " of this software and associated documentation files (the "Software"),
